@@ -1,0 +1,1 @@
+e7f912804d54bfdadd0864df3f2cecaa953988a8852918b824966fdc29b733f3  ./docs/spec/materials/CL-WAB-SET-001_Rev0.1.json
