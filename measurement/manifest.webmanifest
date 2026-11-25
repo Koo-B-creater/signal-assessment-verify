@@ -1,0 +1,9 @@
+{
+  "name": "和文モールス再生精度の計測",
+  "short_name": "モールス計測",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101820",
+  "theme_color": "#101820"
+}
